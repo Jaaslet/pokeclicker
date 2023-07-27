@@ -1318,7 +1318,7 @@ dungeonList['New Island'] = new Dungeon('New Island',
                 new GymPokemon('Sandslash', 18500, 40),
                 new GymPokemon('Vaporeon', 18500, 40),
                 new GymPokemon('Golduck', 18500, 40),
-            ]),
+            ], { weight: 1 }, 'Mewtwo'),
         new DungeonTrainer('Armored Mewtwo',
             [
                 new GymPokemon('Nidoqueen', 18500, 40),
