@@ -95,6 +95,7 @@ export type PokemonNameType
     | 'Pikachu (Gengar)'
     | 'Let\'s Go Pikachu'
     | 'Pinkan Pikachu'
+    | 'Pikachu (Clone)'
     | 'Detective Pikachu'
     | 'Raichu'
     | 'Alolan Raichu'

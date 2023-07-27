@@ -1252,7 +1252,7 @@ TownList['New Island'] = new DungeonTown(
     GameConstants.Region.kanto,
     GameConstants.KantoSubRegions.Sevii123,
     [new SpecialEventRequirement('Mewtwo strikes back!')],
-    [],
+    [TemporaryBattleList['Ash Ketchum New Island']],
     {
         npcs: [NewIslandAsh1, NewIslandAsh2, NewIslandJessieAndJames],
     }
