@@ -946,6 +946,16 @@
             })
         %>
 
+        <!--New Island-->
+        <%- include('templates/mapOverlay',
+            { x: 28, y: 2
+            , width: 8, height: 8
+            , databind: "click:function(){MapHelper.moveToTown('New Island')}, attr:{ class: MapHelper.calculateTownCssClass('New Island') }"
+            , visible:  "TownList['New Island'].isUnlocked()"
+            , image: "assets/images/map/new_island.png"
+            })
+        %>
+
         <!-- -------- -->
         <!-- DUNGEONS -->
         <!-- -------- -->
