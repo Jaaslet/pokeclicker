@@ -1225,6 +1225,12 @@ TownList['Berry Forest'] = new DungeonTown(
     GameConstants.KantoSubRegions.Sevii123,
     [new RouteKillRequirement(10, GameConstants.Region.kanto, 29)]
 );
+TownList['New Island'] = new DungeonTown(
+    'New Island',
+    GameConstants.Region.kanto,
+    GameConstants.KantoSubRegions.Sevii123,
+    [new SpecialEventRequirement('Mewtwo strikes back!')]
+);
 TownList['Victory Road'] = new DungeonTown(
     'Victory Road',
     GameConstants.Region.kanto,

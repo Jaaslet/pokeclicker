@@ -1241,6 +1241,7 @@ export const KantoDungeons = [
     'Pokémon Mansion',
     'Mt. Ember Summit',
     'Berry Forest',
+    'New Island',
     'Victory Road',
     'Cerulean Cave',
     'Ruby Path',
@@ -1250,11 +1251,11 @@ export const KantoDungeons = [
     'Pattern Bush',
     'Altering Cave',
     'Tanoby Ruins',
-    'Pinkan Mountain', // 21
+    'Pinkan Mountain', // 22
 ];
 
 export const JohtoDungeons = [
-    'Sprout Tower', // 22
+    'Sprout Tower', // 23
     'Ruins of Alph',
     'Union Cave',
     'Slowpoke Well',
@@ -1269,11 +1270,11 @@ export const JohtoDungeons = [
     'Dark Cave',
     'Tohjo Falls',
     'Victory Road Johto',
-    'Mt. Silver', // 37
+    'Mt. Silver', // 38
 ];
 
 export const HoennDungeons = [
-    'Petalburg Woods', // 38
+    'Petalburg Woods', // 39
     'Rusturf Tunnel',
     'Granite Cave',
     'Fiery Path',
@@ -1311,7 +1312,7 @@ export const HoennDungeons = [
     'Gateon Port Battles',
     'Cipher Key Lair',
     'Citadark Isle',
-    'Citadark Isle Dome', // 76
+    'Citadark Isle Dome', // 77
     // These aren't implemented anywhere yet
     /*
     "Island Cave",
@@ -1340,7 +1341,7 @@ export const HoennDungeons = [
 ];
 
 export const SinnohDungeons = [
-    'Oreburgh Gate', // 77
+    'Oreburgh Gate', // 78
     'Valley Windworks',
     'Eterna Forest',
     'Old Chateau',
@@ -1363,11 +1364,11 @@ export const SinnohDungeons = [
     'Flower Paradise',
     'Snowpoint Temple',
     'Stark Mountain',
-    'Hall of Origin', // 100
+    'Hall of Origin', // 101
 ];
 
 export const UnovaDungeons = [
-    'Floccesy Ranch', // 101
+    'Floccesy Ranch', // 102
     'Liberty Garden',
     'Castelia Sewers',
     'Relic Passage',
@@ -1389,11 +1390,11 @@ export const UnovaDungeons = [
     'Pledge Grove',
     'Pinwheel Forest',
     'Dreamyard',
-    'P2 Laboratory', // 123
+    'P2 Laboratory', // 124
 ];
 
 export const KalosDungeons = [
-    'Santalune Forest', // 124
+    'Santalune Forest', // 125
     'Connecting Cave',
     'Glittering Cave',
     'Reflection Cave',
@@ -1406,12 +1407,12 @@ export const KalosDungeons = [
     'Team Flare Secret HQ',
     'Terminus Cave',
     'Pokémon Village',
-    'Victory Road Kalos', // 136
+    'Victory Road Kalos', // 137
     // 'Unknown Dungeon',
 ];
 
 export const AlolaDungeons = [
-    'Trainers\' School', // 137
+    'Trainers\' School', // 138
     'Hau\'oli Cemetery',
     'Verdant Cavern',
     'Melemele Meadow',
@@ -1440,11 +1441,11 @@ export const AlolaDungeons = [
     'Ruins of Abundance',
     'Ruins of Hope',
     'Poni Meadow',
-    'Resolution Cave', // 166
+    'Resolution Cave', // 167
 ];
 
 export const GalarDungeons = [
-    'Slumbering Weald Shrine', // 167
+    'Slumbering Weald Shrine', // 168
     'Galar Mine',
     'Galar Mine No. 2',
     'Glimwood Tangle',
@@ -1464,11 +1465,11 @@ export const GalarDungeons = [
     'Lakeside Cave',
     'Dyna Tree Hill',
     'Tunnel to the Top',
-    'Crown Shrine', // 187
+    'Crown Shrine', // 188
 ];
 
 export const HisuiDungeons = [
-    'Oreburrow Tunnel', // 188
+    'Oreburrow Tunnel', // 189
     'Heartwood',
     'Shrouded Ruins',
     'Veilstone Cape',
@@ -1487,7 +1488,7 @@ export const HisuiDungeons = [
     'Seaside Hollow',
     'Ancient Lake Verity',
     'Ancient Lake Valor',
-    'Ancient Lake Acuity', // 207
+    'Ancient Lake Acuity', // 208
 ];
 
 export const RegionDungeons = [
