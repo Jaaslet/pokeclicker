@@ -318,6 +318,7 @@ export const SpriteCredits: Credit[] = [
             'Mismagius (Illusion) Shop Icon',
             'Mr Stone',
             'Peat Block',
+            'Pikachu (Clone)',
             'Pinkan Arbok',
             'Pinkan Bellsprout',
             'Pink Bow',
