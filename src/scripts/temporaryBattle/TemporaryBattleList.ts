@@ -405,6 +405,437 @@ TemporaryBattleList['Santa Jynx 4'] = new TemporaryBattle(
     }
 );
 
+//Halloween Kanto Temporary Battles
+TemporaryBattleList['Halloween Kanto 1'] = new TemporaryBattle(
+    'Halloween Kanto 1',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 2'] = new TemporaryBattle(
+    'Halloween Kanto 2',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 3'] = new TemporaryBattle(
+    'Halloween Kanto 3',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 4'] = new TemporaryBattle(
+    'Halloween Kanto 4',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 5'] = new TemporaryBattle(
+    'Halloween Kanto 5',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 6'] = new TemporaryBattle(
+    'Halloween Kanto 6',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 7'] = new TemporaryBattle(
+    'Halloween Kanto 7',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 8'] = new TemporaryBattle(
+    'Halloween Kanto 8',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 9'] = new TemporaryBattle(
+    'Halloween Kanto 9',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 10'] = new TemporaryBattle(
+    'Halloween Kanto 10',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 11'] = new TemporaryBattle(
+    'Halloween Kanto 11',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 12'] = new TemporaryBattle(
+    'Halloween Kanto 12',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 13'] = new TemporaryBattle(
+    'Halloween Kanto 13',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 14'] = new TemporaryBattle(
+    'Halloween Kanto 14',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 15'] = new TemporaryBattle(
+    'Halloween Kanto 15',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 16'] = new TemporaryBattle(
+    'Halloween Kanto 16',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 17'] = new TemporaryBattle(
+    'Halloween Kanto 17',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 18'] = new TemporaryBattle(
+    'Halloween Kanto 18',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 19'] = new TemporaryBattle(
+    'Halloween Kanto 19',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 20'] = new TemporaryBattle(
+    'Halloween Kanto 20',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 21'] = new TemporaryBattle(
+    'Halloween Kanto 21',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 22'] = new TemporaryBattle(
+    'Halloween Kanto 22',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 23'] = new TemporaryBattle(
+    'Halloween Kanto 23',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 24'] = new TemporaryBattle(
+    'Halloween Kanto 24',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 25'] = new TemporaryBattle(
+    'Halloween Kanto 25',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 26'] = new TemporaryBattle(
+    'Halloween Kanto 26',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 27'] = new TemporaryBattle(
+    'Halloween Kanto 27',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 28'] = new TemporaryBattle(
+    'Halloween Kanto 28',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 29'] = new TemporaryBattle(
+    'Halloween Kanto 29',
+    [new GymPokemon('Gastly', 12324, 20)],
+    'That was just a Gastly! Keep looking',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 30'] = new TemporaryBattle(
+    'Halloween Kanto 30',
+    [new GymPokemon('Spooky Bulbasaur', 12324, 20)],
+    'You found a Spooky Bulbasaur!',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 31'] = new TemporaryBattle(
+    'Halloween Kanto 31',
+    [new GymPokemon('Spooky Bulbasaur', 12324, 20)],
+    'You found a Spooky Bulbasaur!',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 32'] = new TemporaryBattle(
+    'Halloween Kanto 32',
+    [new GymPokemon('Spooky Bulbasaur', 12324, 20)],
+    'You found a Spooky Bulbasaur!',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+TemporaryBattleList['Halloween Kanto 33'] = new TemporaryBattle(
+    'Halloween Kanto 33',
+    [new GymPokemon('Spooky Bulbasaur', 12324, 20)],
+    'You found a Spooky Bulbasaur!',
+    [new SpecialEventRequirement('Halloween!')],
+    undefined,
+    {
+        displayName: 'Trick or Treat!',
+        hideTrainer: true,
+        isTrainerBattle: false,
+        resetDaily: true,
+    }
+);
+
 //Johto Temporary Battles
 TemporaryBattleList['Silver 1'] = new TemporaryBattle(
     'Silver 1',

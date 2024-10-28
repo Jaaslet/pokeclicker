@@ -10226,3 +10226,15 @@ TownList['Final Region Town'] = new Town(
         requirements: [new GymBadgeRequirement(BadgeEnums.Elite_PaldeaChampion)],
     }
 );
+
+
+// Add Trick or Treat for Halloween
+Rand.seed(new Date().getDate());
+const randomKantoTowns = Rand.shuffleArray(Object.values(TownList).filter(t => !(t instanceof DungeonTown) && t.region == GameConstants.Region.kanto))
+randomKantoTowns.forEach((t, i) => {
+    const tempBattleName = `Halloween Kanto ${(i + 1).toString()}`;
+    if (tempBattleName in TemporaryBattleList) {
+        t.content.push(TemporaryBattleList[tempBattleName]);
+        TemporaryBattleList[tempBattleName].optionalArgs.returnTown = t.name;
+    }
+});
